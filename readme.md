@@ -33,4 +33,6 @@ found in the example directory.
 
 # License
 
+`https://stackoverflow.com/questions/50200268/how-can-i-use-the-format-macro-in-a-no-std-environment/50200528#50200528`
+
 Apache version 2.0 or Mit
